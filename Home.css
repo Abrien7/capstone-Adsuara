@@ -1,0 +1,31 @@
+#banner{
+	background-image: url(https://images.pexels.com/photos/3053859/pexels-photo-3053859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+margin-bottom: 0px;
+}
+.container-fluid{
+	padding: 0;
+	
+}
+#sample-nav
+{
+    background: black;
+	font-family: Permanent Marker; 
+    margin-bottom: 0;
+    margin-top: 0;
+}
+#Text
+{
+	color: whitesmoke;
+	text-shadow: 2px 2px black;
+	font-family: Permanent Marker;
+}
+#footer{
+	color: dark;
+	text-shadow: 20px 20px black;
+	font-family: Permanent Marker;
+	background: black;
+	font-size: 12px;
+}
